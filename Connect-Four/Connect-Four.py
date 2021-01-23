@@ -55,6 +55,9 @@ def WinningState(gameState):
                 else:
                     totalInARow = 0
     totalInARow = 0
+    
+   
+#Edited by sami
 
     # y-axis check
     for i in range(7):
